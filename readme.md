@@ -6,31 +6,31 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. -bron 1-
-2. -bron 2-
-3. -...-
+1. Oefeningen van Sanne
+2. Programmeeropdracht jaar 1
+3. Ajax website voor website content
 
 
 
 ## Eindgesprek (week 7/8)
 
--dit ging goed & dit was lastig-
+Vond de grids nog wel lastig. Verder ging het wel oke. Ik heb alleen alles uitgesteld tot het laatste moment waardoor er niet echt een mooi proces is, omdat ik van vrijwel niks naar website klaar ging.
 
 **Screenshot(s):**
 
--screenshot(s) van je eindresultaat-
+Zie screenshot map
 
 
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
+Hier was ik helaas niet bij
 
 
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+Niet veel veranderd t.o.v. voortgang 1 vanwege tijdgebrek.
 
 
 
@@ -38,19 +38,15 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+De media query's die ik gebruikt had waren goed, header was al redelijk responsive. Javascript om het hamburgermenu werkend te maken ontbreekt nog.
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent-
-
-### Agenda voor meeting
-
--samen met je groepje opstellen-
+Zie screenshot map
 
 ### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
+Ben wel redelijk goed op weg naar mijn mening.
 
 
 
